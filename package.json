@@ -12,6 +12,8 @@
     "body-parser": "^1.17.2",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
-    "nodemailer": "^4.0.1"
+    "nodemailer": "^4.0.1",
+    "basic-auth": "^2.0.1",
+    "tsscmp": "^1.0.6"
   }
 }
